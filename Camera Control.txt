@@ -1,0 +1,3 @@
+Tekan huruf 'i' Untuk Zoom In
+Tekan huruf 'o' Untuk Zoom Out
+Tekan huruf 'l' atau 'r' Untuk Memutar Objek
